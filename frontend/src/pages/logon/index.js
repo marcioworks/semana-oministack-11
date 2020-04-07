@@ -25,7 +25,7 @@ export default function Logon() {
                 </form>
 
             </section>
-            <img src={heroesImg} width="700px" height="450px" alt="Heroes" />
+            <img src={heroesImg} width="860px"  alt="Heroes" />
         </div>
     );
 }
